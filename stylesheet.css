@@ -93,20 +93,32 @@ h2 {
 }
 
 #level{
+	border-radius: 50%;
+	height: 20%;
+	width: 40%;
+	line-height: 2;
+	padding: 20px; 
+
   background: rgb(226, 212, 8);
   color: #a200ff;
 }
 
 #remainGuess{
+	border-radius: 50%;
 	background: rgb(247, 40, 3);
 	color: #f4f7f4a9;
 	text-align: left;
 	width: 150px;
+	line-height: 2;
+	padding: 20px; 
   }
 
 #points{
+	border-radius: 50%;
 	background: rgb(249, 250, 250);
 	color: #050505be;
+	line-height: 2;
+	padding: 20px; 
   }
  
 #userGuess{
